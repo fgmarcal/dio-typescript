@@ -1,4 +1,4 @@
-export abstract class DioAccount {
+export abstract class Account {
   private name: string
   private readonly accountNumber: number
   balance: number = 0
